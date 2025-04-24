@@ -49,3 +49,35 @@ Investigar se abordagens inspiradas em vibrações harmônicas e rotações geom
 1. Clone este repositório:
 ```bash
 git clone https://github.com/seuusuario/colapsador-tsp.git
+
+2. Abra o arquivo index.html no seu navegador.
+3. Clique em Escolher arquivo e selecione uma instância .tsp.
+4. Ajuste os parâmetros A, S e N se desejar.
+5. Clique em Autoexplorar ou use o botão de exportação para salvar os resultados.
+
+## 📈 Resultados Esperados
+
+O sistema não garante a obtenção do caminho ótimo, mas busca:
+
+Reduzir significativamente o custo da rota comparado a uma solução aleatória.
+
+Testar a influência de harmônicos e ângulos na ordenação dos pontos.
+
+Servir de base para futuras heurísticas baseadas em geometria rotacional e física simbólica.
+
+🤝 Contribuições
+
+Sinta-se livre para:
+
+Criar forks e testar outras instâncias .tsp
+
+Propor novos algoritmos de refinamento
+
+Contribuir com visualizações ou melhorias na interface
+
+📜 Licença
+
+MIT License – sinta-se livre para estudar, modificar e utilizar, com os devidos créditos.
+
+Criado por Álvaro Coelho de Alencar Neto – Abril de 2025
+Explorando os limites da computação simbólica e heurística com antimatemática.
